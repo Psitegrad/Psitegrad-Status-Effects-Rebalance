@@ -19,7 +19,7 @@ Of course you could just not get hit 😉
 + Slightly increased effects of red and blue poisons on enemy.  
 [In time you will master the weapon used against you.]
 
-+ Merged Heatnixx' Curse Balancing Mod, as it would have created conflicts.
++ Merged [Heatnixx' Curse Balancing Mod](https://github.com/Made-in-Abyss-Modding-Community/Modding-Reference/blob/main/mod-directory/heatnixx-curse-balancing-v1.0.md), as it would have created conflicts.
   
 + Reduced curse effect time in layers that you've mastered.  
 [Those who braved the Abyss long enough to adorn new whistles find their very body twisted by it, yet amidst hardships blessings overflow.]
