@@ -1,6 +1,6 @@
-# Psitegrad's Status Effect Rebalance for Made in Abyss BSFD
+# Psitegrad's Status Effects Rebalance for Made in Abyss BSFD
 
-A mod that aims to rebalance status effect in this game.  
+A mod that aims to rebalance status effects in this game.  
 The abyss should be an arduous environment for inexperienced or insufficiently prepared delvers.
 
 Note that this is my personal preference, too often I find them easy to ignore as the penalty is relatively mild.  
