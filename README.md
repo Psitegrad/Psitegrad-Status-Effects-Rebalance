@@ -19,7 +19,7 @@ Of course you could just not get hit 😉
 + Slightly increased effects of red and blue poisons on enemy.  
 [In time you will master the weapon used against you.]
 
-+ Merged [Heatnixx' Curse Balancing Mod](https://github.com/Made-in-Abyss-Modding-Community/Modding-Reference/blob/main/mod-directory/heatnixx-curse-balancing-v1.0.md), as it would have created conflicts.
++ Merged [Heatnixx's Curse Balancing Mod](https://github.com/Made-in-Abyss-Modding-Community/Modding-Reference/blob/main/mod-directory/heatnixx-curse-balancing-v1.0.md), as it would have created conflicts.
   
 + Reduced curse effect time in layers that you've mastered.  
 [Those who braved the Abyss long enough to adorn new whistles find their very body twisted by it, yet amidst hardships blessings overflow.]
@@ -38,9 +38,10 @@ Will conflict with any mods that edit the following files:
 + DT_AbnormalSetting
 + DT_EnemyAbnormalSetting
 
+Currently conflicts with Heatnixx's [Curse Balancing Mod](https://github.com/Made-in-Abyss-Modding-Community/Modding-Reference/blob/main/mod-directory/heatnixx-curse-balancing-v1.0.md), if you just want the modded cursed effect time without my other additions please give their mod a try !
 
 ### Download
-[https://github.com/Psitegrad/Psitegrad-Status-Effect-Rebalance](https://github.com/Psitegrad/Psitegrad-Status-Effect-Rebalance/releases/tag/v1.0)
+[https://github.com/Psitegrad/Psitegrad-Status-Effect-Rebalance](https://github.com/Psitegrad/Psitegrad-Status-Effects-Rebalance/releases)
 
 
 ### How to Install
